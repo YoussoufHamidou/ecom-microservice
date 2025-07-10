@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cec928-c147-4b97-af6c-801a5b1a0528" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-repo/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/config-repo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -50,7 +53,7 @@
     "Spring Boot.DiscoveryApplication.executor": "Run",
     "Spring Boot.GatewayServiceApplication.executor": "Run",
     "Spring Boot.InventoryServiceApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/PC/IdeaProjects/ecom-ii-bdcc-app/billing-service",
     "node.js.detected.package.eslint": "true",
@@ -170,6 +173,7 @@
       <workItem from="1751195440229" duration="8233000" />
       <workItem from="1752056984555" duration="5276000" />
       <workItem from="1752154733913" duration="4110000" />
+      <workItem from="1752164089010" duration="116000" />
     </task>
     <servers />
   </component>
